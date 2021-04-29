@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JcscJosecarlossilvacoelho
+- 👀 I’m interested in JAVASCRIPT / C# / REACT / REACT-NATIVE / NODE JS
+- 🌱 I’m currently learning clean architecture 
